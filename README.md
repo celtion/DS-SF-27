@@ -14,7 +14,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 2 | 9/13 | [Research Design and _pandas_](./classes/02) | | |
 | 3 | 9/15 | Exploratory Data Analysis | | |
 | 4 | 9/20 | Flexible Class Session: Exploratory Data Analysis | **[Unit Project 1](./unit-project/1)** | |
-| 5 | 9/22 | Statistics and Model Fit | | |
+| 5 | 9/22 | Model Fit | | |
 | 6 | 9/27 | Linear Regression | **[Unit Project 2](./unit-project/2)** | **[Unit Project 1](./unit-project/1)** |
 | 7 | 9/29 | Linear Regression, Part 2 | | |
 | 8 | 10/4 | k-Nearest Neighbors | **[Final Project 1](./final-project/1)** | **[Unit Project 2](./unit-project/2)** |
